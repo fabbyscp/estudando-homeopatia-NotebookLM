@@ -1,5 +1,7 @@
 OBJETIVO: Uma plataforma de estudos direcionada para realizar a prova de especialista homeopata veterinário
+
 LINKS UTILIZADOS:
+
 1. Documentos Oficiais e Acadêmicos (Brasil)
 Farmacopeia Homeopática Brasileira (3ª edição):
 http://www.anvisa.gov.br/hotsite/farmacopeiabrasileira/conteudo/3a_edicao.pdf
