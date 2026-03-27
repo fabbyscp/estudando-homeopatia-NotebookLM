@@ -1,46 +1,218 @@
-OBJETIVO: Uma plataforma de estudos direcionada para realizar a prova de especialista homeopata veterinário
+# 📘 Estudos em Homeopatia Veterinária
 
-LINKS UTILIZADOS:
+## 🎯 Objetivo
 
-1. Documentos Oficiais e Acadêmicos (Brasil)
-Farmacopeia Homeopática Brasileira (3ª edição):
-http://www.anvisa.gov.br/hotsite/farmacopeiabrasileira/conteudo/3a_edicao.pdf
-SciELO Brasil (Artigo sobre Ciência e Metafísica):
-https://doi.org/10.1590/S1414-32832009000300019
-Dissertação UFAC (Homeopatia na Agropecuária):
-http://www.ufac.br/portal/news/campus-floresta-sedia-evento-sobre-homeopatia-na-agropecuaria
-http://redeagroecologia.cnptia.embrapa.br/biblioteca/manejo/homeopatia/Manual%20de%20Agrohomeopatia.pdf
-2. Obras do Dr. Marcus Zulian Teixeira
-Livros e Biblioteca Virtual:
-Concepção Vitalista de Samuel Hahnemann: Link para o PDF
-Estudo das Rubricas Repertoriais: Link para o PDF
-Repertório Homeopático dos Fármacos Modernos: https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1148263
-Novos Medicamentos Homeopáticos: www.novosmedicamentoshomeopáticos.com
- ou www.newhomeopathicmedicines.com
-Amazon (eBook): http://www.amazon.com/dp/b0912frb62
-3. Bases de Dados e Repositórios Internacionais (NIH/PubMed)
-PMC - Irvine Loudon (História da Homeopatia):
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1676328/
-PMC - Josef M. Schmidt (Similia Similibus Curentur):
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11111286/
-4. Recursos e Portais de Homeopatia
-Homeoint (Repertório de Kent e Obras Históricas):
-http://www.homeoint.org/books/kentrep/
-Homeopatia Explicada:
-http://www.homeopatiaexplicada.com.br/...
-Grupo de Estudos Homeopáticos Samuel Hahnemann (GEHSH):
-http://www.homeopatiaonline.com/gehsh
-http://www.geocities.com/gehsh
-Homeoesp (José Maria Alves):
-WWW.HOMEOESP.ORG
-5. Enciclopédias e Outros
-Wikipedia (Organon):
-https://en.wikipedia.org/w/index.php?title=The_Organon_of_the_Healing_Art&oldid=1293881079
+Criar uma plataforma de estudos direcionada para aprovação na prova de título de especialista em Homeopatia Veterinária, reunindo conteúdos, resumos e estratégias de aprendizado.
 
-Vídeeos:
-https://www.youtube.com/watch?v=K20gW3RVurM
-https://www.youtube.com/watch?v=bA9frxKllO8
-https://www.youtube.com/watch?v=e9Y2bsU2S6Q
-https://www.youtube.com/watch?v=BImmRTPCjFI
-https://www.youtube.com/watch?v=x46JIiQUYyM
+---
 
+## 📚 Curadoria de Fontes
+
+### 📄 Documentos Oficiais e Acadêmicos
+
+* Farmacopeia Homeopática Brasileira (3ª edição)
+  http://www.anvisa.gov.br/hotsite/farmacopeiabrasileira/conteudo/3a_edicao.pdf
+
+* SciELO – Ciência e Metafísica
+  https://doi.org/10.1590/S1414-32832009000300019
+
+* UFAC – Homeopatia na Agropecuária
+  http://www.ufac.br/portal/news/campus-floresta-sedia-evento-sobre-homeopatia-na-agropecuaria
+
+* Manual de Agrohomeopatia (Embrapa)
+  http://redeagroecologia.cnptia.embrapa.br/biblioteca/manejo/homeopatia/Manual%20de%20Agrohomeopatia.pdf
+
+---
+
+### 📚 Obras e Referências
+
+* Marcus Zulian Teixeira (diversas obras)
+
+* Repertório Homeopático dos Fármacos Modernos
+  https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1148263
+
+* Novos Medicamentos Homeopáticos
+  [www.newhomeopathicmedicines.com](http://www.newhomeopathicmedicines.com)
+
+---
+
+### 🌎 Bases Internacionais
+
+* História da Homeopatia (PMC)
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC1676328/
+
+* Similia Similibus Curentur
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11111286/
+
+---
+
+### 🌐 Portais e Recursos
+
+* Homeoint
+  http://www.homeoint.org
+
+* Homeopatia Explicada
+  http://www.homeopatiaexplicada.com.br
+
+---
+
+### 🎥 Vídeos
+
+* https://www.youtube.com/watch?v=K20gW3RVurM
+* https://www.youtube.com/watch?v=bA9frxKllO8
+* https://www.youtube.com/watch?v=e9Y2bsU2S6Q
+* https://www.youtube.com/watch?v=BImmRTPCjFI
+* https://www.youtube.com/watch?v=x46JIiQUYyM
+
+---
+
+## 🧠 Engenharia de Prompts e Cicatrizes
+
+### 🔹 Prompt 1 – Inicial
+
+**Objetivo:** identificar conteúdos da prova
+
+**Prompt:**
+Quais os tópicos que preciso estudar para passar na prova?
+
+**Resultado:**
+
+* Resposta completa, porém extensa e difícil de organizar
+
+**Problema:**
+
+* Informação pouco didática
+
+---
+
+### 🔹 Prompt 2 – Refinamento
+
+**Prompt:**
+Simplifique os tópicos e organize de forma clara e objetiva
+
+**Melhoria:**
+
+* Conteúdo mais limpo
+* Mais fácil de entender
+
+**Limitação:**
+
+* Ainda pouco estruturado para estudo
+
+---
+
+### 🔹 Prompt 3 – Estruturação
+
+**Prompt:**
+Organize em tópicos bem definidos e separados por áreas
+
+**Resultado:**
+
+* Estrutura clara
+* Melhor organização para revisão
+
+---
+
+### 🔹 Prompt 4 – Aplicação prática
+
+**Prompt:**
+Crie um cronograma de estudos de 6 meses com esse conteúdo
+
+**Resultado:**
+
+* Planejamento completo
+* Aplicação prática do conhecimento
+
+---
+
+## 🩹 Cicatrizes (Aprendizados)
+
+* Prompts genéricos geram respostas pouco organizadas
+* Refinamento progressivo melhora muito a qualidade
+* Estruturação é essencial para estudo
+* Pedir aplicação prática (cronograma) aumenta o valor do conteúdo
+* Iteração é fundamental para chegar em um bom resultado
+
+---
+
+## 📖 Miniguia de Estudo
+
+### 🧩 1. Filosofia e História
+
+* Evolução do pensamento médico
+* Vida de Hahnemann
+* Princípios: similitude, vitalismo, doses mínimas
+
+---
+
+### 🩺 2. Semiologia
+
+* Anamnese homeopática
+* Classificação de sintomas
+* Repertorização
+
+---
+
+### 💊 3. Clínica e Terapêutica
+
+* Diagnósticos
+* Prescrição
+* Leis de cura
+
+---
+
+### 🌿 4. Matéria Médica
+
+* Estudo dos medicamentos
+* Policrestos principais
+
+---
+
+### ⚗️ 5. Farmácia Homeopática
+
+* Preparação
+* Escalas (CH, DH, LM)
+* Receituário
+
+---
+
+## 📅 Cronograma de Estudos (6 meses)
+
+### Mês 1 – Filosofia e Bases
+
+* História da medicina
+* Hahnemann
+* Princípios fundamentais
+
+### Mês 2 – Semiologia
+
+* Anamnese
+* Sintomas
+* Repertório
+
+### Mês 3 – Clínica
+
+* Doenças agudas e crônicas
+* Miasmas
+* Leis de cura
+
+### Mês 4 – Matéria Médica I
+
+* Medicamentos A–L
+
+### Mês 5 – Matéria Médica II
+
+* Medicamentos M–Z
+* Comparações
+
+### Mês 6 – Revisão
+
+* Farmácia
+* Prescrição
+* Simulados
+
+---
+
+## 🚀 Conclusão
+
+Este repositório foi desenvolvido como uma base estruturada de estudos para preparação da prova de especialista em Homeopatia Veterinária, utilizando inteligência artificial como ferramenta de apoio na organização, síntese e planejamento do conteúdo.
