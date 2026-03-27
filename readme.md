@@ -1,3 +1,17 @@
+---
+
+## 🔗 NotebookLM (Material Base do Estudo)
+
+Acesse o notebook utilizado como base para organização dos conteúdos, geração de insights e apoio nos estudos:
+
+👉 https://notebooklm.google.com/notebook/ed16512a-2200-4e38-bcd7-7d0468358088
+
+**Descrição:**
+Este notebook foi utilizado para reunir as fontes, estruturar o conteúdo e auxiliar na construção dos resumos, cronograma e prompts ao longo do projeto.
+
+---
+
+
 # 📘 Estudos em Homeopatia Veterinária
 
 ## 🎯 Objetivo
