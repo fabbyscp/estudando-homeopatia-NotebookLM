@@ -213,6 +213,96 @@ Crie um cronograma de estudos de 6 meses com esse conteúdo
 
 ---
 
+---
+
+## 📖 Miniguia de Estudo (Entrega Final)
+
+### 📌 Resumos Estruturados
+
+#### 🧠 Filosofia e História Homeopática
+
+A homeopatia baseia-se no princípio da **similitude**, onde o semelhante cura o semelhante. Desenvolvida por Samuel Hahnemann, fundamenta-se no vitalismo, considerando a energia vital como responsável pelo equilíbrio do organismo. Inclui o estudo da evolução do pensamento médico e das doenças agudas e crônicas.
+
+---
+
+#### 🩺 Semiologia Homeopática
+
+Foca na **individualização do paciente**, através de uma anamnese detalhada. Os sintomas são classificados e hierarquizados, com atenção especial aos sintomas raros e peculiares. A repertorização é utilizada para cruzar sintomas e encontrar o medicamento adequado.
+
+---
+
+#### 💊 Clínica e Terapêutica
+
+Envolve o diagnóstico homeopático (clínico, miasmático e individual), definição do medicamento, escolha da potência e acompanhamento do paciente com base nas **leis de cura**, como a Lei de Hering.
+
+---
+
+#### 🌿 Matéria Médica Homeopática
+
+Estudo aprofundado dos medicamentos homeopáticos, incluindo origem, sintomas e indicações. Destaque para os policrestos mais utilizados na prática clínica.
+
+---
+
+#### ⚗️ Farmácia Homeopática
+
+Abrange os métodos de preparação dos medicamentos, escalas de diluição (CH, DH, LM), formas farmacêuticas e elaboração correta do receituário conforme legislação.
+
+---
+
+### 📚 Glossário de Conceitos
+
+* **Similitude:** princípio onde o semelhante cura o semelhante
+* **Energia Vital:** força que mantém o equilíbrio do organismo
+* **Miasmas:** predisposições crônicas (Psora, Sicose, Sífilis)
+* **Dinamização:** processo de diluição e sucussão do medicamento
+* **Repertorização:** método de cruzamento de sintomas para escolha do remédio
+* **Policrestos:** medicamentos amplamente utilizados
+* **Lei de Hering:** direção da cura no organismo
+* **Anamnese:** coleta detalhada da história do paciente
+* **Remédio Único:** uso de um medicamento por vez
+* **Potência:** grau de diluição do medicamento
+
+---
+
+### 🤖 Prompts Reutilizáveis
+
+#### 📌 Para revisão de conteúdo
+
+Explique [tema] de forma simples, como se fosse para iniciantes, incluindo exemplos práticos.
+
+---
+
+#### 📌 Para aprofundamento
+
+Aprofunde o tema [tema], incluindo aplicações clínicas na medicina veterinária.
+
+---
+
+#### 📌 Para organização de estudo
+
+Organize o conteúdo sobre [tema] em tópicos estruturados para facilitar a revisão.
+
+---
+
+#### 📌 Para prática clínica
+
+Crie um caso clínico fictício envolvendo [tema] e explique a conduta homeopática.
+
+---
+
+#### 📌 Para memorização
+
+Resuma [tema] em formato de lista ou tópicos curtos para revisão rápida.
+
+---
+
+#### 📌 Para simulado
+
+Crie 5 questões de prova sobre [tema], com alternativas e gabarito comentado.
+
+---
+
+
 ## 🚀 Conclusão
 
 Este repositório foi desenvolvido como uma base estruturada de estudos para preparação da prova de especialista em Homeopatia Veterinária, utilizando inteligência artificial como ferramenta de apoio na organização, síntese e planejamento do conteúdo.
